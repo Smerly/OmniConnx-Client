@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400&family=Open+Sans:wght@300;400&family=Oswald:wght@400;500&display=swap');
+// font-family: 'Nunito', sans-serif;
+// font-family: 'Open Sans', sans-serif;
+// font-family: 'Oswald', sans-serif;
+
+.posts {
+  padding: 2rem 7rem;
+  button {
+    box-shadow: none;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #3A31E0, #9D99E6);
+    color: white!important;
+    font-size: 24px;
+  }
+
+  .postinfo {
+      .yourpost {
+          display: flex;
+          flex-direction: row;
+          justify-content: flex-start;
+          align-items: center;
+          font-family: 'Oswald', sans-serif;
+          color: #00A3CF;
+      }
+      .newpost {
+          display: flex;
+          flex-direction: row;
+          justify-content: flex-end;
+          align-items: center;
+      }
+  }
+
+  .render {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      align-items: center;
+      padding: 0 7rem;
+      .nopostscard {
+          color: gray;
+          padding: 4rem;
+          width: 100%;
+      }
+  }
+
+  // cards currently not in use!
+  .cards {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      & > * {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          margin: 10px 0;
+          // width:1000px;
+          & > * {
+              margin: 2rem;
+          }
+          img {
+              height: auto;
+              width: 100px;
+              border-radius: 50%;
+          }
+          .postName{
+            justify-content: flex-start;
+          }
+          .postBody h5{
+            justify-content: flex-start;
+          }
+          .delete{
+            justify-content: flex-end;
+          }
+      }
+      & > .card {
+          border: 2px solid lightgray;
+          border-radius: 10px;
+      }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ----THE BELOW CODE IS WRITTEN FOR THE COMMENTED CODE IN THE POSTS FILE ----// 
+// .posts {
+//   .test {
+//     display: flex;
+//   }
+//   display: flex;
+//   flex-direction: column;
+//   margin-left: 40%;
+//   .createPost {
+//     border: lightgrey solid 2px;
+//     border-radius: 20px;
+//     color: gray;
+//     margin-bottom: 1rem;
+//     padding: 2rem 4rem;
+//     width: 60%;
+//   }
+//   .displayPosts {
+//     display: flex;
+//     flex-direction: column-reverse;
+//     .post {
+//       border: lightgrey solid 2px;
+//       border-radius: 20px;
+//       margin-bottom: 1rem;
+//       padding: 1rem 4rem;
+//       width: 60%;
+//       .prof {
+//         display: flex;
+//         flex-direction: row;
+//         justify-content: center;
+//         margin-bottom: 1rem;
+//         &:first-child {
+//           align-items: center;
+//           img {
+//             height: 125px;
+//             width: auto;
+//             border-radius: 50%;
+//             margin-right: 1rem;
+//           }
+//         }
+//         &:last-child {
+//           display: flex;
+//           flex-direction: column;
+//           justify-content: flex-start;
+//         }
+//       }
+//       .tags {
+//         display: flex;
+//         flex-direction: row;
+//         & > * {
+//           border: lightgrey solid 2px;
+//           border-radius: 10px;
+//           padding: 0.2rem 0.4rem;
+//           margin-right: 0.2rem;
+//         }
+//       }
+//       img {
+//         border-radius: 10px;
+//         position: relative;
+//         width: 70%;
+//         max-height: 70%;
+//       }
+//     }
+//   }
+// }

@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/OmniConnx-Client/static/css/main.e06e9cf9.chunk.css",
+    "main.js": "/OmniConnx-Client/static/js/main.7ab8b660.chunk.js",
+    "main.js.map": "/OmniConnx-Client/static/js/main.7ab8b660.chunk.js.map",
+    "runtime-main.js": "/OmniConnx-Client/static/js/runtime-main.b736033e.js",
+    "runtime-main.js.map": "/OmniConnx-Client/static/js/runtime-main.b736033e.js.map",
+    "static/css/2.f2512455.chunk.css": "/OmniConnx-Client/static/css/2.f2512455.chunk.css",
+    "static/js/2.82092672.chunk.js": "/OmniConnx-Client/static/js/2.82092672.chunk.js",
+    "static/js/2.82092672.chunk.js.map": "/OmniConnx-Client/static/js/2.82092672.chunk.js.map",
+    "static/js/3.8cb44e3c.chunk.js": "/OmniConnx-Client/static/js/3.8cb44e3c.chunk.js",
+    "static/js/3.8cb44e3c.chunk.js.map": "/OmniConnx-Client/static/js/3.8cb44e3c.chunk.js.map",
+    "index.html": "/OmniConnx-Client/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/OmniConnx-Client/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.e06e9cf9.chunk.css.map": "/OmniConnx-Client/static/css/main.e06e9cf9.chunk.css.map",
+    "static/js/2.82092672.chunk.js.LICENSE.txt": "/OmniConnx-Client/static/js/2.82092672.chunk.js.LICENSE.txt",
+    "static/media/financial-post.1dbce9a8.png": "/OmniConnx-Client/static/media/financial-post.1dbce9a8.png",
+    "static/media/financial.64dc1be7.png": "/OmniConnx-Client/static/media/financial.64dc1be7.png",
+    "static/media/landing1.386878e2.png": "/OmniConnx-Client/static/media/landing1.386878e2.png",
+    "static/media/logo.ac08c986.png": "/OmniConnx-Client/static/media/logo.ac08c986.png",
+    "static/media/logo1.be188a87.png": "/OmniConnx-Client/static/media/logo1.be188a87.png",
+    "static/media/mentor-post.c8860ed3.png": "/OmniConnx-Client/static/media/mentor-post.c8860ed3.png",
+    "static/media/mentor.788f9af8.png": "/OmniConnx-Client/static/media/mentor.788f9af8.png",
+    "static/media/register.21ed9c01.png": "/OmniConnx-Client/static/media/register.21ed9c01.png",
+    "static/media/reviews-post.56aa2ccd.png": "/OmniConnx-Client/static/media/reviews-post.56aa2ccd.png",
+    "static/media/reviews.d2e76b70.png": "/OmniConnx-Client/static/media/reviews.d2e76b70.png",
+    "static/media/skills.a48c239f.png": "/OmniConnx-Client/static/media/skills.a48c239f.png",
+    "static/media/usericon.51d9af7d.png": "/OmniConnx-Client/static/media/usericon.51d9af7d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b736033e.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.82092672.chunk.js",
+    "static/css/main.e06e9cf9.chunk.css",
+    "static/js/main.7ab8b660.chunk.js"
+  ]
+}
